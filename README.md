@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     </a>
     at my portfolio:
     <a style="text-decoration: none !important;" href="reenatt-dotcom.github.io" target="_blank">
-      <span> hmousavi.dev </span>
+      <span> reenatt-dotcom.github.io </span>
     </a>
   </h3>
 </div>
