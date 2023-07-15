@@ -14,30 +14,7 @@ Here are some ideas to get you started:
 
 
 <!-- <h3>🕵🏻 Reach out to me: </h3>  -->
-<div>
-    
-<!--     <a style="text-decoration: none !important" href="https://github.com/hossein13m/" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25px" alt="GitHub"/>
-    </a> -->
-    <!-- <a style="text-decoration: none !important" href="https://stackoverflow.com/users/10341207/hossein-mousavi" target="_blank">
-        <img src="https://img.shields.io/badge/Stack_Overflow-D64A17?style=for-the-badge&logo=stack-overflow&logoColor=white" height="25px" alt="StackOverFlow"/>
-    </a>
-    <a style="text-decoration: none !important" href="https://twitter.com/hossein13m" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25px" alt="Twitter"/>
-    </a> -->
-<!--     <a style="text-decoration: none !important" href="mailto:dev.hosseinmousavi@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25px" alt="Gmail"/>
-    </a> -->
-     <!-- <a style="text-decoration: none !important" href="https://open.spotify.com/episode/5BoFoH3WNYU5khCOCqtogz?si=FZyWIcijSzK6QUocPujjsw" target="_blank">
-        <img src="https://img.shields.io/badge/My Podcast On Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&color=#1CCC5B" height="25px" alt="Spotify"/>
-    </a>
-    <a style="text-decoration: none !important" href="https://medium.com/@hossein13m" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25px" alt="Medium"/>
-    </a>
-    <a style="text-decoration: none !important" href="https://devlibrary.withgoogle.com/authors/hossein13m" target="_blank">
-        <img src="https://img.shields.io/badge/Google Dev Library-4285F4?style=for-the-badge&logo=google&logoColor=white" height="25px" alt="GoogleDevLibrary"/>
-    </a> -->
-</div>
+
 
 <h3>💡 My expertises: </h3>
 <div>
