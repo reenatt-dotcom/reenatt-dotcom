@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 <!-- <h3>🕵🏻 Reach out to me: </h3>  -->
 <div>
-    <a style="text-decoration: none !important" href="https://www.linkedin.com/in/reenathomas2" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"/>
-    </a>
+    
 <!--     <a style="text-decoration: none !important" href="https://github.com/hossein13m/" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25px" alt="GitHub"/>
     </a> -->
