@@ -11,22 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-    <h2>
-        Reena Thomas
-    </h2>
-  
-  <h3>
-   Discover my
-    <a style="text-decoration: none !important;" href="https://en.wikipedia.org/wiki/Dastan" target="blank">
-      <span>Dastan!</span>
-    </a>
-    at my portfolio:
-    <a style="text-decoration: none !important;" href="https://repositoryreena.github.io" target="_blank">
-      <span> repositoryreena.github.io </span>
-    </a>
-  </h3>
-</div>
+
 
 <!-- <h3>🕵🏻 Reach out to me: </h3>  -->
 <div>
